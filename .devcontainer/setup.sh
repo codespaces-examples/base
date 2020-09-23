@@ -1,7 +1,12 @@
+## add bits needed for GitHub CLI
+apt-key adv --keyserver keyserver.ubuntu.com --recv-key C99B11DEB97541F0
+apt-add-repository https://cli.github.com/packages
+
 ## update and install some things we should probably have
 apt-get update
 apt-get install -y \
   curl \
+  gh \
   git \
   gnupg2 \
   jq \
