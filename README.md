@@ -21,7 +21,6 @@ This is an unopinionated, basic environment that should be ready to expand upon 
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2): An extension colors matching brackets appropraitely to enhance code readability.
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker): Included for Node.js developers who work with Docker, but also to enable users to edit `.devcontainer/Dockerfile` with proper editing.
 - [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=github.vscode-pull-request-github): Integration with GitHub's Pull Requests and Issues features that significantly enhance the experience of working in a repo hosted on GitHub.
-- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): An extension that significantly enhances the experience using Git in a development environment.
 - [IntelliCode](https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode): AI-assisted development for multiple langauges including JavaScript and TypeScript.
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare): collaborative, multi-user remote editing from directly within the editor.
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons): An enhancement to the editor UI that gives more visual indicators in the explorer.
