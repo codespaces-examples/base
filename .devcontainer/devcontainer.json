@@ -1,5 +1,5 @@
 {
-    "name": "Codespaces Node.js Starter",
+    "name": "Codespaces Base Repository Starter Template",
     "extensions": [
         "coenraads.bracket-pair-colorizer-2",
         "cschleiden.vscode-github-actions",
